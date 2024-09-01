@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "74c91b39910fb75d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6425d080d7833756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c1d66d15f5242da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df6501c4a10713ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "18612adc30b1fae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34efd32e20ce9360",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43431bea6d3bceb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6925015760745734",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b28a46eca58e94b",
+    "type": "split",
+    "children": [
+      {
+        "id": "10dca8261cc8eda9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "266c895ffeab6869",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a740ca71e98701d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7aa1e98b08b9faf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e70cf5ad0b415b74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4c1d66d15f5242da",
+  "lastOpenFiles": [
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900.md",
+    "Linux mint 6427fe00eaed4727aa5b231f474dd488.md",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Ссылки cee70dba082a49038c1c87dab2e3ad44/удалить недействительные тома 107f3009d19e4373a825569616ae9cc0.md",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Ссылки cee70dba082a49038c1c87dab2e3ad44.md",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Ссылки cee70dba082a49038c1c87dab2e3ad44",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/План по созданию своего проекта 3787bca0e66544948dd2ebffbca631e0.md",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Команды консоли ea8c2198b5744586a136a32374d8dc30.md",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Журнал по проекту cd56115f1910492883db4f6a4ef0901c.md",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled.png",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 9.png",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 8.png",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 7.png",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 6.png",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 5.png",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 4.png",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 3.png",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 2.png",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 1.png",
+    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900",
+    "Linux mint 6427fe00eaed4727aa5b231f474dd488",
+    "Работа ff475c3b244c4919bc50acde565578f8/Что читать 75361972fbef42cbb6f7d60dbcfcba14.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Сообщения с eft-backend 37ce528566f24e738e416beaa69497c8.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Словарик aa7886f766484d45b941e9ed000b29de.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Последовательность действий по установке репозит 8ac7c442d6274eb8984da7043108a361.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Полезные ссылки a4248a9640e14a41a3732ef9672bd70c.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Инфраструктура 5a08a69bc4f54a25bcab7756f6f9c3bf",
+    "Работа ff475c3b244c4919bc50acde565578f8/Инфраструктура 5a08a69bc4f54a25bcab7756f6f9c3bf.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Игровая логика 8684bfc90e04448daddbd60552b30b0c",
+    "Работа ff475c3b244c4919bc50acde565578f8/Игровая логика 8684bfc90e04448daddbd60552b30b0c.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Запуск локального сервера игры 9a572149484d4430bac8d02d2ce60c3f",
+    "Работа ff475c3b244c4919bc50acde565578f8/Запуск локального сервера игры 9a572149484d4430bac8d02d2ce60c3f.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Задачки по деждурству 24e466e670154f77aa0f864d705fd475/Ошибки 377b96dedb0f40879809691c862c4a88.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Задачки по деждурству 24e466e670154f77aa0f864d705fd475/Ошибки 377b96dedb0f40879809691c862c4a88",
+    "Работа ff475c3b244c4919bc50acde565578f8/Задачки по деждурству 24e466e670154f77aa0f864d705fd475",
+    "Работа ff475c3b244c4919bc50acde565578f8/Задачки по деждурству 24e466e670154f77aa0f864d705fd475.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Вопросы 7d173470725e426fa3ea56da1309e3e2.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db/MySQL-Doctrine 499ff2505ac94de9875dd4cc94bd6f29.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db/MongoDb 139f15f97027494eadd0c3f1b6065efe.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db/MongoDb 139f15f97027494eadd0c3f1b6065efe",
+    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db/ClickHouse 0dbec1dbcba4442f96b5c728b09808e0.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db/ClickHouse 0dbec1dbcba4442f96b5c728b09808e0",
+    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/WSL dabd2a6ab2874fc284b750561979d0c4.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/VUE dae91e89c47648eaad4a575c11514166/Спецсимволы внутри символьного класса eb4212b7d72547e6b460350e09e74313/^ 5f3da75622984fed882d0c37f4ff3990.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/VUE dae91e89c47648eaad4a575c11514166/Спецсимволы внутри символьного класса eb4212b7d72547e6b460350e09e74313/- 098b88e780bc408194c2cd6ba687ebae.md",
+    "Работа ff475c3b244c4919bc50acde565578f8/VUE dae91e89c47648eaad4a575c11514166/Спецсимволы 57a5e4ffdb3240ecab0bd3ae4b5abb24/{a,b} 8630f198ac8f4c5e852dd7222900bc46.md"
+  ]
+}
