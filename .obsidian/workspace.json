@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "74c91b39910fb75d",
+    "id": "b6a50fd64469342a",
     "type": "split",
     "children": [
       {
-        "id": "6425d080d7833756",
+        "id": "0c0e42f710327205",
         "type": "tabs",
         "children": [
           {
-            "id": "4c1d66d15f5242da",
+            "id": "a499909b6cba9633",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Работа.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "df6501c4a10713ac",
+    "id": "4c410df18b22e28f",
     "type": "split",
     "children": [
       {
-        "id": "18612adc30b1fae4",
+        "id": "3a312a68e17bbf69",
         "type": "tabs",
         "children": [
           {
-            "id": "34efd32e20ce9360",
+            "id": "060130de8e10cd1b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "43431bea6d3bceb9",
+            "id": "04927843785b2acd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "6925015760745734",
+            "id": "33e4d57235a79beb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 446.5
   },
   "right": {
-    "id": "5b28a46eca58e94b",
+    "id": "e6671c0ed93aa965",
     "type": "split",
     "children": [
       {
-        "id": "10dca8261cc8eda9",
+        "id": "0caa2a9b560f3280",
         "type": "tabs",
         "children": [
           {
-            "id": "266c895ffeab6869",
+            "id": "c93740c9ecc74feb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Работа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "a740ca71e98701d4",
+            "id": "2fea3f8bb577f414",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Работа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f7aa1e98b08b9faf",
+            "id": "e3af5f3405a5a473",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "e70cf5ad0b415b74",
+            "id": "4a2b20398f9e7013",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Работа.md"
+              }
             }
           }
         ]
@@ -138,53 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c1d66d15f5242da",
+  "active": "a499909b6cba9633",
   "lastOpenFiles": [
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900.md",
-    "Linux mint 6427fe00eaed4727aa5b231f474dd488.md",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Ссылки cee70dba082a49038c1c87dab2e3ad44/удалить недействительные тома 107f3009d19e4373a825569616ae9cc0.md",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Ссылки cee70dba082a49038c1c87dab2e3ad44.md",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Ссылки cee70dba082a49038c1c87dab2e3ad44",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/План по созданию своего проекта 3787bca0e66544948dd2ebffbca631e0.md",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Команды консоли ea8c2198b5744586a136a32374d8dc30.md",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Журнал по проекту cd56115f1910492883db4f6a4ef0901c.md",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled.png",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 9.png",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 8.png",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 7.png",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 6.png",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 5.png",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 4.png",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 3.png",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 2.png",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900/Untitled 1.png",
-    "Symfony 4b51c2bdb53c4c52ba3d3c3b1f2f1900",
-    "Linux mint 6427fe00eaed4727aa5b231f474dd488",
-    "Работа ff475c3b244c4919bc50acde565578f8/Что читать 75361972fbef42cbb6f7d60dbcfcba14.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Сообщения с eft-backend 37ce528566f24e738e416beaa69497c8.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Словарик aa7886f766484d45b941e9ed000b29de.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Последовательность действий по установке репозит 8ac7c442d6274eb8984da7043108a361.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Полезные ссылки a4248a9640e14a41a3732ef9672bd70c.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Инфраструктура 5a08a69bc4f54a25bcab7756f6f9c3bf",
-    "Работа ff475c3b244c4919bc50acde565578f8/Инфраструктура 5a08a69bc4f54a25bcab7756f6f9c3bf.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Игровая логика 8684bfc90e04448daddbd60552b30b0c",
-    "Работа ff475c3b244c4919bc50acde565578f8/Игровая логика 8684bfc90e04448daddbd60552b30b0c.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Запуск локального сервера игры 9a572149484d4430bac8d02d2ce60c3f",
-    "Работа ff475c3b244c4919bc50acde565578f8/Запуск локального сервера игры 9a572149484d4430bac8d02d2ce60c3f.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Задачки по деждурству 24e466e670154f77aa0f864d705fd475/Ошибки 377b96dedb0f40879809691c862c4a88.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Задачки по деждурству 24e466e670154f77aa0f864d705fd475/Ошибки 377b96dedb0f40879809691c862c4a88",
-    "Работа ff475c3b244c4919bc50acde565578f8/Задачки по деждурству 24e466e670154f77aa0f864d705fd475",
-    "Работа ff475c3b244c4919bc50acde565578f8/Задачки по деждурству 24e466e670154f77aa0f864d705fd475.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Вопросы 7d173470725e426fa3ea56da1309e3e2.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db/MySQL-Doctrine 499ff2505ac94de9875dd4cc94bd6f29.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db/MongoDb 139f15f97027494eadd0c3f1b6065efe.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db/MongoDb 139f15f97027494eadd0c3f1b6065efe",
-    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db/ClickHouse 0dbec1dbcba4442f96b5c728b09808e0.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db/ClickHouse 0dbec1dbcba4442f96b5c728b09808e0",
-    "Работа ff475c3b244c4919bc50acde565578f8/Базы Данных daf912cba7ae42ddb0e6dd671200d7db.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/WSL dabd2a6ab2874fc284b750561979d0c4.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/VUE dae91e89c47648eaad4a575c11514166/Спецсимволы внутри символьного класса eb4212b7d72547e6b460350e09e74313/^ 5f3da75622984fed882d0c37f4ff3990.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/VUE dae91e89c47648eaad4a575c11514166/Спецсимволы внутри символьного класса eb4212b7d72547e6b460350e09e74313/- 098b88e780bc408194c2cd6ba687ebae.md",
-    "Работа ff475c3b244c4919bc50acde565578f8/VUE dae91e89c47648eaad4a575c11514166/Спецсимволы 57a5e4ffdb3240ecab0bd3ae4b5abb24/{a,b} 8630f198ac8f4c5e852dd7222900bc46.md"
+    "Работа/Git.md",
+    "Работа/JS.md",
+    "Работа/Redis.md",
+    "Работа/Docker.md",
+    "Работа/CSS.md",
+    "Работа/BootStrap.md",
+    "Работа/Backend.md",
+    "Работа/Backend/Grafana cf4760db09f74e3db595ffcb28101356.md",
+    "Работа/Backend/Composer e87137f708594bc4a599be7420239339.md",
+    "Работа/Backend/Jira-webhook eb6c6ed2fd864b11a222503723fe9324.md",
+    "Работа/Что читать.md",
+    "Работа/Словарик.md",
+    "Работа/Последовательность действий по установке репозит.md",
+    "Работа/Полезные ссылки.md",
+    "Работа/Инфраструктура.md",
+    "Работа/Сообщения с eft-backend.md",
+    "Работа/Tasks/Diary 5956667d8c2b4e6eabfaceac17a8f208/Дежурство 26b9effc7ea844cbae0a040f8fee7e8f.md",
+    "Работа/Tasks/Diary 5956667d8c2b4e6eabfaceac17a8f208/в EFT-17046 проверить, как преобразуется значение  f861d789eb1846cea81ada6af2a0cba6.md",
+    "Работа/Tasks/Diary 5956667d8c2b4e6eabfaceac17a8f208/бек для старых задач ребейз решение конфликтов e05db5e2318b4cdc822d355969ab4abc.md",
+    "Работа/Tasks/Diary 5956667d8c2b4e6eabfaceac17a8f208/Ассортимент всех торговцев daaab421a93d4f96b6ce285710deef56.md",
+    "Работа/Tasks.md",
+    "Работа.md",
+    "Работа/Игровая логика.md",
+    "Работа/Backend/Докер бекенды 1cac185a613044b28d4c8ec0b83332ae.md",
+    "Работа/Задачки по деждурству.md",
+    "Работа/Backend/lxc бекенды d2731a488c214f6ba345216d993840a3.md"
   ]
 }
