@@ -2,7 +2,7 @@
 
 [VUEX](VUEX%205e2f67042d4d4c09a7cf338babd5dc7a.md)
 
-## Содержание
+
 
 ## [Table](VUE.md)
 

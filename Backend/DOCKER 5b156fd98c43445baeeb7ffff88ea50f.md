@@ -4,11 +4,11 @@
 
 Зайти в docker-compose.yml и закомментить образ на билд из фпм контейнера
 
-![Untitled](Работа/Backend/DOCKER%205b156fd98c43445baeeb7ffff88ea50f/Untitled.png)
+![Untitled](Работа/Backend/DOCKER/Untitled.png)
 
 ## Как запустить пустой докер контейнер проекта[(up)](%D0%94%D0%BE%D0%BA%D0%B5%D1%80%20%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4%D1%8B%201cac185a613044b28d4c8ec0b83332ae.md)
 
-![Untitled](Работа/Backend/DOCKER%205b156fd98c43445baeeb7ffff88ea50f/Untitled%201.png)
+![Untitled](Работа/Backend/DOCKER/Untitled%201.png)
 
 закомментитть строчку docker-compose.yml 
 
@@ -80,7 +80,7 @@ docker load --input verse_gapminder.tar
 df -h
 ```
 
-![Untitled](Работа/Backend/DOCKER%205b156fd98c43445baeeb7ffff88ea50f/Untitled%202.png)
+![Untitled](Работа/Backend/DOCKER/Untitled%202.png)
 
 очиcnbnm данные только которые не используются
 
@@ -92,9 +92,9 @@ sudo docker image prune -a
 sudo docker builder prune
 ```
 
-![Untitled](Работа/Backend/DOCKER%205b156fd98c43445baeeb7ffff88ea50f/Untitled%203.png)
+![Untitled](Работа/Backend/DOCKER/Untitled%203.png)
 
-![Untitled](Работа/Backend/DOCKER%205b156fd98c43445baeeb7ffff88ea50f/Untitled%204.png)
+![Untitled](Работа/Backend/DOCKER/Untitled%204.png)
 
 ```php
 sudo docker volume prune
